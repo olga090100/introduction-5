@@ -1,0 +1,2 @@
+d703a2b (HEAD -> main) Добавил status.txt
+f1b0935 Добавил README.md
